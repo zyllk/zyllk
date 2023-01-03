@@ -65,9 +65,6 @@
 <a href="https://github.com/zyllk" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-<a href="https://wpa.qq.com/msgrd?v=3&uin=2754818548&site=qq&menu=yes&jumpflag=1" target="_blank">
-<img src=https://img1.imgtp.com/2023/01/03/oW1GY3t4.jpg style="margin-bottom: 10px;" />
-</a>  
 </div>  
   
 
@@ -77,4 +74,4 @@
 ## Github Stats  
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyllk&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 <br/>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zyllk&theme=xcode" /> </div
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zyllk&theme=xcode" /> </div>
